@@ -3,4 +3,4 @@ Tamara is a Buy Now Pay Later service provider with global standards, that incre
 
 Our <b>Split in 3 payments</b> feature gives your customers the liberty to pay for their purchases over 3 interest-free payments within 60 days.
  
-
+<b>Link: </b>https://api-reference.tamara.co
